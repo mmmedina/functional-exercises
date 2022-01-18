@@ -1,0 +1,27 @@
+Thumbs.db
+.tmp*
+tmp
+.target
+*.class
+*.log
+.sonar/
+out
+/bin
+.scannerwork/
+
+# sbt specific
+.cache*
+.history
+.lib
+target
+lib_managed
+src_managed
+project/boot
+project/target
+project/project
+
+# IntelliJ specific
+.idea
+*.iml
+.idea_modules
+.bsp
