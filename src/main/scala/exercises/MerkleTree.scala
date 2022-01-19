@@ -36,7 +36,7 @@ object FirstExercise {
 
 // Solution
 
-object MerkleTreeSolution {
+object MerkleTree {
   case class Node(someData: Seq[Byte])
 
   private def hash(data: Seq[Byte]): Seq[Byte] =

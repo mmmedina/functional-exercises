@@ -33,7 +33,7 @@ Is called only at the very end of the game. It returns the total score for that 
 def score() : Int = ???
 */
 
-object BowlingScoreSolution {
+object BowlingScore {
   type PinsKnocked = Int
   private var pinsKnockedPerRoll: List[PinsKnocked] = List()
 

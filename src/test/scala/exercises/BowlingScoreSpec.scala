@@ -3,7 +3,7 @@ package exercises
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.should.Matchers
 
-import exercises.BowlingScoreSolution._
+import exercises.BowlingScore._
 
 class BowlingScoreSpec extends AnyFlatSpec with Matchers {
 
